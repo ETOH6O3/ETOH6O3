@@ -1,4 +1,5 @@
-## Hi there 👋
+一名来自江苏南京的编程业余爱好者
+目前就读于华南理工大学集成电路专业
 
 <!--
 **ETOH6O3/ETOH6O3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
