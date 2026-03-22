@@ -1,7 +1,7 @@
 一名来自江苏南京的编程业余爱好者
  - 目前就读于华南理工大学集成电路专业
- - 学过 python 和 C++
- - 正在学习 verilog
+ - 学过 python 、 C++ 、verilog
+ - ~~梦想是成为一名技术宅拯救世界~~
 
 <!--
 **ETOH6O3/ETOH6O3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
